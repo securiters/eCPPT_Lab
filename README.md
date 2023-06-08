@@ -10,4 +10,5 @@ Comienza descargándote las máquinas virtuales del laboratorio:
  - BOF: https://mega.nz/file/QJ8RAKoL#n9rqu3GPAvSNUDv_b4EPa3suFSP1Mh_p5GxRZ1G5weE
  - Secret Server: https://mega.nz/file/1IkUQDya#eZwOzGD4SFGDTeDXl8siXAXnv8KS12GHSzLk0M6oSfY
 
+
 ![Diagrama_Lab_eCPPT](https://github.com/securiters/eCPPT_Lab/assets/98969521/217528bb-c218-4c23-9904-1f76773b973f)

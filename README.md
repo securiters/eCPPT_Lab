@@ -11,4 +11,5 @@ Comienza descargándote las máquinas virtuales del laboratorio:
  - Secret Server: https://mega.nz/file/1IkUQDya#eZwOzGD4SFGDTeDXl8siXAXnv8KS12GHSzLk0M6oSfY
 
 
-![Diagrama_Lab_eCPPT](https://github.com/securiters/eCPPT_Lab/assets/98969521/217528bb-c218-4c23-9904-1f76773b973f)
+![Diagrama_Lab_eCPPT](https://github.com/securiters/eCPPT_Lab/assets/98969521/216ce4c8-4da6-4b7e-93aa-64c5b448e252)
+
